@@ -1,8 +1,5 @@
 package boardgame;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Board {
     private Integer rows;
     private Integer columns;
